@@ -1,4 +1,4 @@
-# Real-worldUnifiedMRIDenoising
+# Real-world Unified MRI Denoising
 Official code for the paper "Real-world Unified Denoising for Multi-organ Fast MRI: A Large-scale Prospective Validation". Our code will be published after the acceptance of the paper.
 
 ## Abstract
